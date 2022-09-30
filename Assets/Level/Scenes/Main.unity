@@ -9155,7 +9155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _gameManager: {fileID: 159269524}
   _playerDataManager: {fileID: 1238534234}
-  _savePath: test.12
+  _savePath: player.data
 --- !u!1 &1553758739
 GameObject:
   m_ObjectHideFlags: 0
