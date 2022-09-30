@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  m_GroupName: Music
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 831b1c5d54428de49bf9819fb6278675
+  m_SerializeEntries:
+  - m_GUID: afc8dfea4d71da14c9e1dd0cf456029e
+    m_Address: Assets/Audio/Music/Ocean (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08ed6965abfab5449970da76aa37a427
+    m_Address: Assets/Audio/Music/Comet (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd769aa1a4a297d46b9ed5a16fb55d8e
+    m_Address: Assets/Audio/Music/Undergrowth (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9806349c4053adf488ab4cf1d9239caf
+    m_Address: Assets/Audio/Music/Memory (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ebe9df9ba0d4bf458bdc4d3117346b7
+    m_Address: Assets/Audio/Music/Home (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac2b9a5fbf398e74c9a567721b5766c8
+    m_Address: Assets/Audio/Music/Rain (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d506c87c31b84b4e90242b467ad3ef3
+    m_Address: Assets/Audio/Music/Rust (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a37ca1e845dbf8e4d800183be3b2dc10
+    m_Address: Assets/Audio/Music/Eclipse (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d2afcf178b4b5348a531f5cfd69e74d
+    m_Address: Assets/Audio/Music/Flow (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7564e9562f534ce4f958bfbb041b3b55
+    m_Address: Assets/Audio/Music/Azimuth (Loopable).wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f8ff77bb5acd31d48bf6f7b4e70cf350, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ec5029d33702c9d4cb64b8d43b3d5c76, type: 2}
+    - {fileID: 11400000, guid: 2bf4dc609c2c2d24fb65706721e1c77b, type: 2}
